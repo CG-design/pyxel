@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/assets/pyxel_logo_152x64.png">
-##Pyxel 是 Python 中复古的游戏开发环境。你可以免费使用该平台开发复古的游戏，使用 PICO-8 和 TIC-80 创建自己想要的 API 和调色板规格。此外，得益于其简单的游戏控制台，你可以享受任何艺术风格的游戏。
+## Pyxel 是 Python 中复古的游戏开发环境。你可以免费使用该平台开发复古的游戏，使用 PICO-8 和 TIC-80 创建自己想要的 API 和调色板规格。此外，得益于其简单的游戏控制台，你可以享受任何艺术风格的游戏。
+
 [ [English](https://github.com/kitao/pyxel/blob/master/README.md) | [日本語](https://github.com/kitao/pyxel/blob/master/README.ja.md) | [Other Languages](https://github.com/kitao/pyxel/wiki) ]
 
 **Pyxel** is a retro game engine for Python.
